@@ -12,7 +12,7 @@
 <!--  👋 Conheça um pouquinho mais sobre mim clicando <a href="https://github.com/isabvictoriaps/CurriculoBootstrap/blob/main/README.md">aqui</a> -->
     <div align="center">
     <a href = "mailto:alinefas2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/aline-fernandes-7b6640182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/aline-fernandes-7b6640182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&backgroundColor=red" target="_blank"></a>
     </div>
 </div>
 
@@ -43,5 +43,5 @@
   
   ##
 
-    
+![Snake animation](https://github.com/aline-fas/aline-fas/blob/output/github-contribution-grid-snake.svg)
 <!--   ![aline-fas](https://komarev.com/ghpvc/?username=aline-fas) -->

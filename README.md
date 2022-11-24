@@ -3,7 +3,7 @@
 <div style="margin-right: 500px;">
   <br>
  🚀 Estudante de Ciências da Computação; <br>
- 👨‍💻Estudando Desenvolvimento WEB no SENAC-RJ
+ 👨‍💻Estudando Desenvolvimento WEB no SENAC-RJ <br>
  👨‍💻 Estudando HTML, CSS, Javascript, Bootstrap, PHP e SQL; <br>
  💻 Utilizo as ferramentas: Figma, Git, Canva, MySQL e Visual Studio Code; <br><br>
 <!--  🚀 Contate-me em: alinefas2020@gmail.com <br>

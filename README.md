@@ -2,10 +2,11 @@
 
 <div style="margin-right: 500px;">
   <br>
- 💗 Estudante de Ciências da Computação; <br>
+ 🚀 Estudante de Ciências da Computação; <br>
+ 👨‍💻Estudando Desenvolvimento WEB no SENAC-RJ
  👨‍💻 Estudando HTML, CSS, Javascript, Bootstrap, PHP e SQL; <br>
  💻 Utilizo as ferramentas: Figma, Git, Canva, MySQL e Visual Studio Code; <br><br>
- 💙 Contate-me em: alinefas2020@gmail.com <br>
+ 🚀 Contate-me em: alinefas2020@gmail.com <br>
  💙 Portfólio: # <br>
  💙 Linkedin: https://www.linkedin.com/in/aline-fernandes-7b6640182/ <br><br>
 <!--  👋 Conheça um pouquinho mais sobre mim clicando <a href="https://github.com/isabvictoriaps/CurriculoBootstrap/blob/main/README.md">aqui</a> -->

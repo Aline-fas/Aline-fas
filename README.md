@@ -14,12 +14,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/Aline-fas"> 
-<!--     <img height="150em" src="https://github-readme-stats.vercel.app/apiAline-fasanuraghazra/>
-    <img height="150em" src="https://github.com/anuraghazra/github-readme-stats/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/apiAline-fas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Aline-fas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aline-fas&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/Aline-fas/">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aline-fas&theme=dark&show_icons=true&include_all_commits=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-fas&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
   ##
@@ -30,6 +27,7 @@
   <img align="center" alt="Aline-JS"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <!--   <img align="center" alt="Aline-REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"> -->
   <img align="center" alt="Aline-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
+   <img align="center" alt="Aline-Php" src="https://img.shields.io/badge/Php-ED8B00?style=for-the-badge&logo=php&color=blue">
 <!--   <img align="center" alt="Aline-python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> -->
 <!--   <img align="center" alt="Aline-java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> -->
   <img align="center" alt="Aline-MySQL" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> 
@@ -40,4 +38,4 @@
   ##
 
     
-  ![Isabvictoriaps](https://komarev.com/ghpvc/?username=Isabvictoriaps)
+<!--   ![aline-fas](https://komarev.com/ghpvc/?username=aline-fas) -->

@@ -6,18 +6,23 @@
  👨‍💻Estudando Desenvolvimento WEB no SENAC-RJ
  👨‍💻 Estudando HTML, CSS, Javascript, Bootstrap, PHP e SQL; <br>
  💻 Utilizo as ferramentas: Figma, Git, Canva, MySQL e Visual Studio Code; <br><br>
- 🚀 Contate-me em: alinefas2020@gmail.com <br>
+<!--  🚀 Contate-me em: alinefas2020@gmail.com <br>
  💙 Portfólio: # <br>
- 💙 Linkedin: https://www.linkedin.com/in/aline-fernandes-7b6640182/ <br><br>
+ 💙 Linkedin: https://www.linkedin.com/in/aline-fernandes-7b6640182/ <br><br> -->
 <!--  👋 Conheça um pouquinho mais sobre mim clicando <a href="https://github.com/isabvictoriaps/CurriculoBootstrap/blob/main/README.md">aqui</a> -->
+    <div align="center">
+    <a href = "mailto:alinefas2020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/aline-fernandes-7b6640182" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    </div>
 </div>
 
 ##
 
-<div align="center">
+<div align="center"> <br>
   <a href="https://github.com/Aline-fas/">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=aline-fas&theme=dark&show_icons=true&include_all_commits=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-fas&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aline-fas&layout=compact&langs_count=7&theme=dark"/>
+  </a>
 </div>
   
   ##

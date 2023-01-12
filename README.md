@@ -6,6 +6,7 @@
  <!--👨‍💻Estudando Desenvolvimento WEB no SENAC-RJ <br>
  👨‍💻 Estudando HTML, CSS, Javascript, Bootstrap, PHP e SQL <br> -->
  💻 Utilizo as ferramentas: Figma, Git, Canva, MySQL e Visual Studio Code 
+ 💻Principais linguagens: PHP, JavaScript e SQL
 <!--  🚀 Contate-me em: alinefas2020@gmail.com <br>
  💙 Portfólio: # <br>
  💙 Linkedin: https://www.linkedin.com/in/aline-fernandes-7b6640182/ <br><br> -->
